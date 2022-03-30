@@ -12,8 +12,6 @@ function mandarMsg() {
        <input type='number' id='input-numero'><button type='button'onclick='mandarResposta()'>enviar</button>`
 
         divMsg.innerHTML = msg;
-        
-
     }
 }
 function mandarResposta() {

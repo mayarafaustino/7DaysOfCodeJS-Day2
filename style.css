@@ -10,7 +10,6 @@ body {
     align-items: center;
     width: 50%;
     margin: auto;
-
 }
 form {
     display: flex;
@@ -24,7 +23,6 @@ input {
     border-bottom: 2px solid #f1f1f1;
     background-color: #111;
     color: #f1f1f1;
-    
 }
 button {
     padding: .25rem .5rem;
